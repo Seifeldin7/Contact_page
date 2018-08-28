@@ -1,0 +1,53 @@
+div{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    letter-spacing: 1mm;
+    font-weight: normal;
+    
+}
+p{
+    font-style: italic;
+}
+
+.button{
+    background-color:black;
+    border: none;
+    color: white;
+    float: right;
+    height: 30px;
+    width: 60px;
+    position: relative;
+    left:100px;
+    bottom: 20px;
+}
+.nam{
+    height: 30px;
+    width: 150px;
+    position: relative;
+    left:100px;
+    
+}
+.email{
+    height: 30px;
+    width: 150px;
+    position: relative;
+    left:100px;
+    
+}
+.msg{
+    height: 30px;
+    width: 310px;
+    position: relative;
+    left:100px;
+    bottom: 10px;
+}
+table{
+    justify-content: center;
+    border-spacing: 15px;
+}
+.labels{
+    padding-bottom: 80px;
+    text-align: left;
+}
